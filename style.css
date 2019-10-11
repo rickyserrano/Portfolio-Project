@@ -1,0 +1,17 @@
+ul{
+    list-style: none;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+li{
+    margin-top: 25px;
+    margin-right: 55px;
+    margin-left: 55px;
+    margin-bottom: 15px;
+}
+
+body{
+    font-family: 'Open Sans', sans-serif;
+    
+}
